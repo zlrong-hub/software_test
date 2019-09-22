@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sudoku", "Sudoku\Sudoku.vcxproj", "{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Debug|x64.ActiveCfg = Debug|x64
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Debug|x64.Build.0 = Debug|x64
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Debug|x86.Build.0 = Debug|Win32
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Release|x64.ActiveCfg = Release|x64
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Release|x64.Build.0 = Release|x64
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Release|x86.ActiveCfg = Release|Win32
+		{A4B2EE89-77C1-4FCD-9145-C8A25EF45704}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA879345-5C1D-4AF7-9C0D-8900DA69BC9C}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
